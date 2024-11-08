@@ -1,0 +1,7 @@
+{
+  "name": "miappfirebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
